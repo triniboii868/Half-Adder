@@ -64,5 +64,6 @@ inputs within columns. However, they are considerably smaller and render differe
 # Works Cited 
 
 Why we should remember the public announcement of the Difference Engine. (2023, November 23). HistoryExtra. https://www.historyextra.com/period/georgian/why-remember-charles-babbage-difference-engine/
+
 Justice, M. (2020). How computers really work [Book]. No Starch Press. 
 
