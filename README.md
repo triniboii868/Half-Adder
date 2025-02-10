@@ -51,7 +51,8 @@ lit up, showing that a carry has been produced.
 ## Difference Engines
 ### Image of Difference Engine
 
-![Babbage_Difference_Engine_(Being_utilised)](https://github.com/user-attachments/assets/f6efc48d-ef1f-4e6c-bacc-b6bd9282cc03)
+![image](https://github.com/user-attachments/assets/f8f398cd-2131-42d5-a733-1a2bda525e6d)
+
 
 ### What are they and how are they similar/different to the Half-Adder?
 
@@ -62,4 +63,6 @@ inputs within columns. However, they are considerably smaller and render differe
 
 # Works Cited 
 
+Why we should remember the public announcement of the Difference Engine. (2023, November 23). HistoryExtra. https://www.historyextra.com/period/georgian/why-remember-charles-babbage-difference-engine/
+Justice, M. (2020). How computers really work [Book]. No Starch Press. 
 
