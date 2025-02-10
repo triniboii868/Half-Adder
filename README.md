@@ -9,12 +9,12 @@ place value to the leftmost place value. The difference comes where the values c
 and carry over a 1 to the next column, just like how 5 + 5 in decimal makes 10, and you carry the 1. So, binary addition is similar to regular 
 addition but with carrying happening sooner— whenever you reach 2 instead of 10.
 
-# Half-Adder
-## What is a half-adder?
+# Half-Adder, what is it?
 A half adder is basically a digital logic circuit that adds two single-bit binary numbers, for instance the examples given above. These adders
 start wiith two binary inputs which subsequently produce a "sum" output, denoted by S, and a "carry" output denoted by C<sup>out</sup>. 
 The sum bit represents the least significant bit of the addition and the carry-out bit of 0 or 1. 
 
 #Diagram of a Half-Adder
+
 ![Screenshot 2025-02-10 010043](https://github.com/user-attachments/assets/e5717d85-d268-4eae-94e9-2056b38d6284)
 
