@@ -43,8 +43,23 @@ The S LED is lit up, showing that there was a sum of 1 with no carry.
 ![image](https://github.com/user-attachments/assets/588b5e40-4d4e-4251-97d0-2e33abb8de1f)
 
 ## Setup (A = 1, B = 1)
-In the final setup, both input's A and B is 1, through the XOR gate it outputs a sum output of 0, but has a carry output of 1. The carry led is
+In the final setup, both inputs A and B is 1, through the XOR gate it outputs a sum output of 0, but has a carry output of 1. The carry led is
 lit up, showing that a carry has been produced. 
 
 ![image](https://github.com/user-attachments/assets/4409f228-049e-492a-9943-e39eddb3f7c7)
+
+## Difference Engines
+### Image of Difference Engine
+
+![Babbage_Difference_Engine_(Being_utilised)](https://github.com/user-attachments/assets/f6efc48d-ef1f-4e6c-bacc-b6bd9282cc03)
+
+### What are they and how are they similar/different to the Half-Adder?
+
+Difference engines are mechanical calculators designed to perform arithmetic functions repeatedly by adding values within columns. These 
+calculations are generated based on the initial input into the engine, where the ouput is achieved through a system of gears and wheels 
+that represent digits and generates table outputs. The half-adder is similar to this as it generates tables based on the addition of 0 and 1 
+inputs within columns. However, they are considerably smaller and render different outputs as it performs less complicated functions. 
+
+# Works Cited 
+
 
