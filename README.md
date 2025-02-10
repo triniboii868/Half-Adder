@@ -14,7 +14,7 @@ A half adder is basically a digital logic circuit that adds two single-bit binar
 start wiith two binary inputs which subsequently produce a "sum" output, denoted by S, and a "carry" output denoted by C<sup>out</sup>. 
 The sum bit represents the least significant bit of the addition and the carry-out bit of 0 or 1. 
 
-#Diagram of a Half-Adder
+# Diagram of a Half-Adder
 
 ![Screenshot 2025-02-10 010043](https://github.com/user-attachments/assets/e5717d85-d268-4eae-94e9-2056b38d6284)
 
