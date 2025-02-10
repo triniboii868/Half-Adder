@@ -30,15 +30,15 @@ the S and C<sub>out</sub> outputs respectively.
 
 ![Screenshot 2025-02-10 010043](https://github.com/user-attachments/assets/e5717d85-d268-4eae-94e9-2056b38d6284)
 
-# Setup (A = 0, B = 0)
+## Setup (A = 0, B = 0)
 
 ![image](https://github.com/user-attachments/assets/1ece4e3c-e7a3-4303-be8e-ab47d77e7c7b)
 
-# Setup (A = 0, B = 1)
+## Setup (A = 0, B = 1)
 
 ![image](https://github.com/user-attachments/assets/588b5e40-4d4e-4251-97d0-2e33abb8de1f)
 
-Setup (A = 1, B = 1)
+## Setup (A = 1, B = 1)
 
 ![image](https://github.com/user-attachments/assets/4409f228-049e-492a-9943-e39eddb3f7c7)
 
