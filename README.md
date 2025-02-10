@@ -31,6 +31,7 @@ the S and C<sub>out</sub> outputs respectively.
 ![Screenshot 2025-02-10 010043](https://github.com/user-attachments/assets/e5717d85-d268-4eae-94e9-2056b38d6284)
 
 ## Setup (A = 0, B = 0)
+Both inputs A, B are 0, resulting in a 0 as seen in the truth table above. 
 
 ![image](https://github.com/user-attachments/assets/1ece4e3c-e7a3-4303-be8e-ab47d77e7c7b)
 
