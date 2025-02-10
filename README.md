@@ -4,7 +4,9 @@ place value to the leftmost place value. The difference comes where the values c
 
 ## How to do Addition in Binary.
 0 + 0 = 0 → Nothing changes, just like in normal math.
+
 0 + 1 or 1 + 0 = 1 → Adding 1 to 0 is still just 1, no surprises there.
+
 1 + 1 = 10 → This is where binary is different. In decimal, 1 + 1 is 2, but since binary only has 0 and 1, there’s no "2." Instead, we write 0 
 and carry over a 1 to the next column, just like how 5 + 5 in decimal makes 10, and you carry the 1. So, binary addition is similar to regular 
 addition but with carrying happening sooner— whenever you reach 2 instead of 10.
